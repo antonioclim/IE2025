@@ -7,7 +7,7 @@
 - **Affiliations:** Academy of Economic Studies, Bucharest & Bridge in Tech, Dublin  
 
 **Speaker Notes:**  
-"Good [morning/afternoon], everyone. Today, I'll explain how we use Scenario-Based Development, or SBD, combined with clear cost metrics, to effectively manage Technical Debt in software projects."
+"Good afternoon, everyone. Today, I'll explain how we use Scenario-Based Development, or SBD, combined with clear cost metrics, to effectively manage Technical Debt in software projects."
 
 ---
 
