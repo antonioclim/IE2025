@@ -4,7 +4,7 @@
 
 ## Slide 1: ADDRESSING TECHNICAL DEBT (TD) THROUGH SCENARIO-BASED DEVELOPMENT (SBD)
 - **Authors:** Sabina Amaricai, Radu Constantinescu, Antonio Clim  
-- **Affiliations:** Academy of Economic Studies, Bucharest & Bridge in Tech, Dublin  
+- **Affiliations:** Bucharest & Bridge in Tech, Dublin and (last two co-authors) Academy of Economic Studies  
 
 **Speaker Notes:**  
 "Good afternoon, everyone. Today, I'll explain how we use Scenario-Based Development, or SBD, combined with clear cost metrics, to effectively manage Technical Debt in software projects."
