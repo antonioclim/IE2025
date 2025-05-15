@@ -3,7 +3,7 @@
 ---
 
 ## Slide 1: ADDRESSING TECHNICAL DEBT (TD) THROUGH SCENARIO-BASED DEVELOPMENT (SBD)
-- **Authors:** Antonio Clim, Radu Constantinescu, Sabina Amaricai  
+- **Authors:** Sabina Amaricai, Radu Constantinescu, Antonio Clim  
 - **Affiliations:** Academy of Economic Studies, Bucharest & Bridge in Tech, Dublin  
 
 **Speaker Notes:**  
